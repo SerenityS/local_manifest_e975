@@ -3,5 +3,5 @@
   <project name="CyanogenMod/android_device_lge_e975" path="device/lge/e975" remote="github" />  
   <project name="CyanogenMod/android_device_lge_gproj-common" path="device/lge/gproj-common" remote="github" />
   <project name="CyanogenMod/android_kernel_lge_gproj" path="kernel/lge/gproj" remote="github" />
-  <project name\"TheMuppets/prorietary_verndor_lge"	path="vendor/lge" remote="github" />
+  <project name="TheMuppets/prorietary_verndor_lge"	path="vendor/lge" remote="github" />
 </manifest>
